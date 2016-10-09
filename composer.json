@@ -1,5 +1,5 @@
 {
-  "name":"drupal/search_api_elasticsearch",
+  "name":"wouters-frederik/search_api_elasticsearch",
   "type":"drupal-module",
   "description":"Provides an Elasticsearch backend for the Search API module.",
   "license":"GPL-2.0+",
