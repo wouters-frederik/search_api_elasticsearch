@@ -17,7 +17,6 @@
     }
   ],
   "require": {
-    "drupal/drupal": "~8.0.x-dev",
     "ruflin/elastica": "v1.3.4.0"
   },
   "require-dev": {
